@@ -1,0 +1,34 @@
+{
+  "directories": [
+    {
+      "path": "/var/www/html/vysual/",
+      "owner_user": "",
+      "owner_group": "",
+      "mode": "0777"
+    },
+    {
+      "path": "/var/www/html/vSrv/",
+      "owner_user": "",
+      "owner_group": "",
+      "mode": "0777"
+    },
+    {
+      "path": "/opt/vysual/",
+      "owner_user": "czeller",
+      "owner_group": "czeller",
+      "mode": "0777"
+    },
+    {
+      "path": "/opt/vysual/.secret/",
+      "owner_user": "czeller",
+      "owner_group": "czeller",
+      "mode": "0600"
+    },
+    {
+      "path": "/home/czeller/backup",
+      "owner_user": "czeller",
+      "owner_group": "czeller",
+      "mode": "0777"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "configurations": [
+    {
+      "engine": "On",
+      "precision": "14"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+deflate
+headers
+expires
+rewrite
+proxy
+proxy_wstunnel
+ssl
+headers
