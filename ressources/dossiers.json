@@ -1,7 +1,7 @@
 {
   "directories": [
     {
-      "path": "/var/www/html/vysual/",
+      "path": "/var/www/html/destination/",
       "owner_user": "",
       "owner_group": "",
       "mode": "0777"
