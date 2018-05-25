@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # moves files
 
     f = module_file.File("ressources/toMove/files/fileExample")
-    f.move_to("root/dumb/id_rsa")
+    f.move_to("root/dumb/dumbFile")
     f.change_owner("root", "root")
     f.change_permission("0600")
 
