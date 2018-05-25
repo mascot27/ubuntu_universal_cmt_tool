@@ -15,7 +15,7 @@ apache_modes = "ressources/apache2ModesList.txt"
 # php
 php_modes = "ressources/phpModesList.txt"
 # mysql
-password_mysql = "Qwertz123"
+password_mysql = "Hunter2"
 mysql_script_install = "ressources/scripts/mariaDB_install.sh"
 mysql_script_user = "ressources/scripts/mariaDB_install_users.sh"
 mysql_command_list = "ressources/mySqlCommandeList.txt"
