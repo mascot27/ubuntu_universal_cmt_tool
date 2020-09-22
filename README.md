@@ -1,5 +1,5 @@
 # ubuntu_universal_cmt_tool
 
-tool for automatic deployements
+Part of my tool for automatic deployments of ubuntu server app
 
 Make sure to adapt it to your needs before running
